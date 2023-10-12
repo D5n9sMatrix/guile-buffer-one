@@ -1,0 +1,7 @@
+x
+a a, b, c
+b -0.32+0.00i,  0.00-0.56i,  1.00+0.00i,  0.00+1.77i, -3.14+0.00i
+c    1,   10,  100, 1000
+d a        , longer   , character, string   
+q a + b
+e expression(1 + x)
